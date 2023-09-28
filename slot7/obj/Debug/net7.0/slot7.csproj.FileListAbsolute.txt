@@ -1,0 +1,14 @@
+D:\.Net\slot7\slot7\bin\Debug\net7.0\slot7.exe
+D:\.Net\slot7\slot7\bin\Debug\net7.0\slot7.deps.json
+D:\.Net\slot7\slot7\bin\Debug\net7.0\slot7.runtimeconfig.json
+D:\.Net\slot7\slot7\bin\Debug\net7.0\slot7.dll
+D:\.Net\slot7\slot7\bin\Debug\net7.0\slot7.pdb
+D:\.Net\slot7\slot7\obj\Debug\net7.0\slot7.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\slot7\slot7\obj\Debug\net7.0\slot7.AssemblyInfoInputs.cache
+D:\.Net\slot7\slot7\obj\Debug\net7.0\slot7.AssemblyInfo.cs
+D:\.Net\slot7\slot7\obj\Debug\net7.0\slot7.csproj.CoreCompileInputs.cache
+D:\.Net\slot7\slot7\obj\Debug\net7.0\slot7.dll
+D:\.Net\slot7\slot7\obj\Debug\net7.0\refint\slot7.dll
+D:\.Net\slot7\slot7\obj\Debug\net7.0\slot7.pdb
+D:\.Net\slot7\slot7\obj\Debug\net7.0\slot7.genruntimeconfig.cache
+D:\.Net\slot7\slot7\obj\Debug\net7.0\ref\slot7.dll
